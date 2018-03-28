@@ -1,0 +1,9 @@
+URI: index	
+
+URI: index.html.en
+Content-type: text/html
+Content-language: en	
+
+URI: index.html.es
+Content-type: text/html
+Content-language: es
